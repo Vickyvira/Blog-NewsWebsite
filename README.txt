@@ -1,9 +1,9 @@
+![Blog-NewsWebsite] BlogWebsite.png
 
-TITLE: 
-Vicky Blog & News website - 100% Fully Responsive News Website Template
+TITLE: Vicky Blog & News website - 100% Fully Responsive News Website Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Vicky Kumar Das
 
 Website: https://freehtml5.co/
 Twitter: https://twitter.com/fh5co
@@ -23,9 +23,6 @@ http://jquery.com/
 
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
-
-YU2FLV
-http://otakod.es/yu2fvl
 
 Demo Images:
 http://unsplash.com
