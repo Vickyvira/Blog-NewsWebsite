@@ -1,4 +1,4 @@
-![](BlogWebsite.png)
+![](assets/images/BlogWebsite.png)
 
 TITLE: Vicky Blog & News website - 100% Fully Responsive News Website Template
 
